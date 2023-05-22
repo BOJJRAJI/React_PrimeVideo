@@ -1,0 +1,19 @@
+.bg-container {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+.logo-image {
+  width: 100%;
+  height: 150px;
+}
+.movies-container {
+  background-color: #000000;
+  padding: 40px;
+}
+.movies-heading {
+  font-size: 23px;
+  color: #ffffff;
+  font-weight: bold;
+  font-family: 'Roboto';
+}
